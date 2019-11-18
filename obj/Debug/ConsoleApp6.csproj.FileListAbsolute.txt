@@ -1,0 +1,12 @@
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\GemBox.Document.dll
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\GemBox.Document.xml
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\itextsharp.dll
+C:\Users\is7400\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\itextsharp.xml
